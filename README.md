@@ -5,4 +5,5 @@ the concept is that you would use a couple master wafers to make sure that the p
 the pin would be a spool pin or other custom ward carved into it and an edge of it would be exposed to the ward test rail.
 
 I didn't use any standard sizes, so please just adjust sizing as fit (and possibly even MR it back to me if you adjust them in the drawing.
+
 ![Warded Pin Tumbler Lock](https://github.com/dicetrash/warded-pin-lock/blob/main/ward-pin.png)
